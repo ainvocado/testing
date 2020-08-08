@@ -22,5 +22,9 @@
   "userlogin": [
     { "userID": 1, "phoneNum": 1, "password": 1 },
     { "userID": 2, "phoneNum": 2, "password": 2 }
+  ],
+  "userprofile": [
+    { "profileID": 1, "userID": 1, "fullName": "Nurul Ain Mohd Izzat", "nickname": "Ain", "icNum": 4, "birthDate": "12/3/00", "gender": 1, "address": "Malaysia" },
+    { "profileID": 1, "userID": 2, "fullName": "Keiji Akaashi", "nickname": "Keiji", "icNum": 5, "birthDate": "12/3/98", "gender": 2, "address": "Tokyo" }
   ]
 }
