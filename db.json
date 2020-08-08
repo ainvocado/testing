@@ -1,13 +1,5 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+ 
   "transaction" : [
     { "type": 0, "trans": 1, "name": "Siti Nadrah binti Mohd Akhir", "date": "4 August 2020", "price": "5.00" },
     { "type": 1, "trans": 2, "name": "Nur Idayu binti Mohd Yusof", "date": "1 August 2020", "price": "10.00" },
