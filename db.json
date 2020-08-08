@@ -1,11 +1,10 @@
-{"menu": {
-  "id": "file",
-  "value": "File",
-  "popup": {
-    "menuitem": [
-      {"value": "New", "onclick": "CreateNewDoc()"},
-      {"value": "Open", "onclick": "OpenDoc()"},
-      {"value": "Close", "onclick": "CloseDoc()"}
-    ]
+{
+  "posts": 
+    "id": 1, "title": "Post 1", "description": "this is description 1"
+    },
+  "comments": {
+     "id": 1, "body": "comment 1", "postId" : 1
+    }
+  "profile": {
+    "name": "ainvocado"
   }
-}}
