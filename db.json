@@ -18,5 +18,13 @@
     { "type": 0, "trans": 5, "name": "Topup from Bank Islam", "date": "20 July 2020", "price": "30.00" },
     { "type": 0, "trans": 4, "name": "Jennie Kim", "date": "18 July 2020", "price": "6.00" },
     { "type": 0, "trans": 1, "name": "Kyungsoo Do", "date": "10 July 2020", "price": "8.00" }
+  ],
+  "user-login": [
+    { "userID": 1, "phoneNum": 0103190694, "password": 0103190694 },
+    { "userID": 2, "phoneNum": 0122025920, "password": 0122025920 }
+  ],
+  "user-profile": [
+    { "profileID": 1, "userID": 1, "fullName": "Nurul Ain Mohd Izzat", "nickname": "Ain", "icNum": 1234, "birthDate": "12/3/00", "gender": 1, "address": "Malaysia" },
+    { "profileID": 1, "userID": 2, "fullName": "Keiji Akaashi", "nickname": "Keiji", "icNum": 5678, "birthDate": "12/3/98", "gender": 2, "address": "Tokyo" },
   ]
 }
