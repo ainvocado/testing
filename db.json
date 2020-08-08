@@ -4,7 +4,7 @@
     { "type": 0, "trans": 1, "name": "Siti Nadrah binti Mohd Akhir", "date": "4 August 2020", "price": "5.00" },
     { "type": 1, "trans": 2, "name": "Nur Idayu binti Mohd Yusof", "date": "1 August 2020", "price": "10.00" },
     { "type": 1, "trans": 3, "name": "Arissa Alyna binti Shah Azlan", "date": "30 July 2020", "price": "8.00" },
-    { "type": 0, "trans": 5, "name": "Topup from Bank Islam", "date": "20 July 2020", "price": "30.00" },
+    { "type": 0, "trans": 5, "name": "Bank Islam", "date": "20 July 2020", "price": "30.00" },
     { "type": 0, "trans": 4, "name": "Jennie Kim", "date": "18 July 2020", "price": "6.00" },
     { "type": 0, "trans": 1, "name": "Kyungsoo Do", "date": "10 July 2020", "price": "8.00" }
   ],
